@@ -443,7 +443,6 @@ nextRow:
 	jmp findOuter	
 
 done3:
-	mov ax, [bp - 8]
 	pop di
 	pop si
 	pop dx
